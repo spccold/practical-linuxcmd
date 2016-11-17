@@ -10,3 +10,4 @@
 * launcher-position
 	* gsettings set com.canonical.Unity.Launcher launcher-position Bottom
 	* gsettings set com.canonical.Unity.Launcher launcher-position Left
+* esc+fn 禁用fn功能键
